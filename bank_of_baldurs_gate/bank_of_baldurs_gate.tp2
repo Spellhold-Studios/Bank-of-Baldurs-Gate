@@ -35,13 +35,20 @@ LANGUAGE ~English~
          ~english~
          ~bank_of_baldurs_gate/lang/english/setup.tra~
 
-LANGUAGE ~Russian (translation by yota13)~
-         ~russian~
-         ~bank_of_baldurs_gate/lang/russian/setup.tra~
+LANGUAGE ~Espanol (traduccion de alaisFcZ)~
+         ~spanish~
+         ~bank_of_baldurs_gate/lang/english/setup.tra~
+         ~bank_of_baldurs_gate/lang/spanish/setup.tra~
 
 LANGUAGE ~Francais (traduction : Gwendolyne)~
          ~french~
+         ~bank_of_baldurs_gate/lang/english/setup.tra~
          ~bank_of_baldurs_gate/lang/french/setup.tra~
+
+LANGUAGE ~Russian (translation by yota13)~
+         ~russian~
+         ~bank_of_baldurs_gate/lang/english/setup.tra~
+         ~bank_of_baldurs_gate/lang/russian/setup.tra~
 
 
 /* =========================== *

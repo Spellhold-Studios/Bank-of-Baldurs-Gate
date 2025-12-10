@@ -1,0 +1,19 @@
+@0    = ~Banco de Puerta Baldur~ // ~[BANK OF BALDURS GATE] Bank in building next to Iron Throne (City of Baldur's Gate)~
+@10   = ~Este mod solo esta disponible para EET.~
+
+
+/* ----------- *
+ *  Creatures  *
+ * ----------- */
+@51   = ~Director Billboo~
+@52   = ~Gestor Samriel~
+@53   = ~Guardia Bancario~
+
+
+/* ------------ *
+ *  bankir.baf  *
+ * ------------ */
+@101  = ~¡Un ladrón detectado!~
+@102  = ~¡A las armas! ¡Nos atacan!~
+@103  = ~¡Véngame! ¡Nos atacan!~
+@104  = ~¡El director ha sido asesinado! ¡Venguen a nuestro jefe!~
