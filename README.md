@@ -27,7 +27,7 @@
 
 ## 
 
-:page_facing_up: [Read the mod's readme](https://spellholdstudios.github.io/readmes/bank_of_baldurs_gate-readme-english.txt) - [Français](https://spellholdstudios.github.io/readmes/bank_of_baldurs_gate-readme-french.txt)
+:page_facing_up: [Read the mod's readme](https://spellholdstudios.github.io/readmes/bank_of_baldurs_gate-readme-english.txt) - [FranÃ§ais](https://spellholdstudios.github.io/readmes/bank_of_baldurs_gate-readme-french.txt)
 
 :inbox_tray: [Download the mod at Spellhold Studios](http://www.shsforums.net/files/file/1216-bank-of-baldurs-gate-for-eet/)<br>
 
@@ -164,7 +164,7 @@ In addition to the methods above for removing individual components, you can com
 
 #### Special Acknowledgements to:
 
-- <a href="http://www.spellholdstudios.net/">Spellhold Studios</a> team for hosting the mod (<a href="http://www.shsforums.net">Forums</a>).
+- <a href="https://www.shsforums.net/">Spellhold Studios</a> team for hosting the mod.
 - All avatars for bank's personnel are available under Creative Commons C0 license and were acquired from <a href="https://pixabay.com/">pixabay</a> site. These avatars don't require mentioning authors and can be used in commercial means (this mod is not commercial, of cause).
 - Gwendolyne: French translation.
 - yota13: Russian translation.
